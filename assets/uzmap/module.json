@@ -1,0 +1,12 @@
+{
+	modules:[
+		{
+		    name:'eas',
+		    class:'com.apicloud.uzneteaseavchat.NetEaseAVChatEasDelegate'
+		},
+		{
+		    name:'netEaseAVChat',
+		    class:'com.apicloud.uzneteaseavchat.UzNetEaseAVChat'
+		}
+	]
+}
